@@ -8,7 +8,7 @@ pip install -r requeriments.txt
 
 # Usage
 <pre>
-➜  hash2pass python main.py
+➜ python main.py
 hash: 5fee00239940f883d4c2854e41c7f989e75278a3
 hash type [md4,md5,sha1,sha256,sha384,sha512,ntlm]: sha1
 [+] - Getting an API
