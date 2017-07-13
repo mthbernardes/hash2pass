@@ -1,5 +1,5 @@
 # hash2pass
-Crack the hash using the <a href="http://md5decrypt.net/">md5decrypt.net</a> API, the hash2pass will automatically create a account to you, if you reach the limit of queries, the hash2pass will register another account.
+Crack hashs using the <a href="http://md5decrypt.net/">md5decrypt.net</a> API, the hash2pass will automatically create a account to you, if you reach the limit of queries, the hash2pass will register another account.
 
 # install
 <pre>
