@@ -1,11 +1,12 @@
 # hash2pass
+Crack the hash using the <a href="http://md5decrypt.net/">md5decrypt.net</a> API, the hash2pass will automatically create a account to you, if you reach the limit of queries, the hash2pass will register another account.
 
-#install
+# install
 <pre>
 pip install -r requeriments.txt
 </pre>
 
-#Usage
+# Usage
 <pre>
 ➜  hash2pass python main.py
 hash: 5fee00239940f883d4c2854e41c7f989e75278a3
@@ -16,3 +17,6 @@ API KEY: YOUR_HASH_KEY
 Email: TEMP_EMAIL@TEMPEMAIL.COM
 [+] - Cracked password: nicole
 </pre>
+
+# Source
+<a href="http://md5decrypt.net/">md5decrypt.net</a>
